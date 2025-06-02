@@ -42,7 +42,7 @@ add_action('wp_enqueue_scripts', 'enqueue_cookie_notice');
 # Контактная информация
 **Разработчик:** Андрей Бессонов  
 **Telegram:** [BessonovAndrey](https://t.me/BessonovAndrey)  
-**Email:** adb@abessonvo.ru  
+**Email:** adb@abessonov.ru  
 
 # Лицензионные требования
 Согласно информации из файла `cookie-notice.php`:
